@@ -1,1 +1,1 @@
-NekoWatch2 v0.8 Patch Notes, 2/11/24  Added: Weather info using OpenWeatherAPI.
+NekoWatch2 v0.8b Patch Notes, 2/11/24  Added: Weather info using OpenWeatherAPI. Weather display at top.
